@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @wcmalik
+- 👀 I’m interested in advancing health care through empowering clinicians and improving technology services.
+- 🌱 I’m currently learning Cloud and DevOps at MIT
+- 📫 How to reach me ... wmalik1@wgu.edu
